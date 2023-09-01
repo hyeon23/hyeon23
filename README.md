@@ -40,10 +40,13 @@ Here are some ideas to get you started:
 
 ----------------------------
 
+### ◁ 100 ▷
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=urim2270)](https://solved.ac/urim2270)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=urim2270)](https://solved.ac/urim2270/)
+
+----------------------------
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zlaepek&layout=compact)](https://github.com/hyeon23/github-readme-stats)
 
