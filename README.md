@@ -30,7 +30,7 @@
 #### ■ TRIED ■<br>
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,py,java,linux)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=lua,kotlin,androidstudio,firebase,postman)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=lua,kotlin,androidstudio,firebase,postman)](https://skillicons.dev)<br><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zlaepek&layout=compact)](https://github.com/hyeon23/github-readme-stats)
 
