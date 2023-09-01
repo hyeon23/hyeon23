@@ -1,4 +1,3 @@
-# Hello World 👋
 
 <!--
 **hyeon23/hyeon23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hyeon's%24github&fontSize=75&animation=fadeIn&fontAlignY=30&desc=강동현의%20포트폴리오%20입니다&descAlignY=54&descAlign=62)
 
 <div align="center">
+
+<h1>HYEON's GIT HUB</h1>
 
 <!-- ![Zlaepek's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeon23&show_icons=true&theme=radical) -->
 
