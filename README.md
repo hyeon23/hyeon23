@@ -21,10 +21,6 @@ Here are some ideas to get you started:
 
 --------------------
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeon23)](https://github.com/anuraghazra/github-readme-stats)
-
-![Zlaepek's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeon23&show_icons=true&theme=radical)
-
 ### ■ NOTION ■
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://versed-pigment-371.notion.site/4a696b9f0df7439fa4e081e6cfbfddcf?pvs=4)
 
@@ -43,6 +39,11 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=lua,kotlin,androidstudio,firebase,postman)](https://skillicons.dev)<br>
 
 ----------------------------
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=urim2270)](https://solved.ac/urim2270)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=urim2270)](https://solved.ac/urim2270/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zlaepek&layout=compact)](https://github.com/hyeon23/github-readme-stats)
 
