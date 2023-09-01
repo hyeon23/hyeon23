@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 <div align="center">
 <h1>HYEON's GITHUB</h1>
 
--------------------------------
-
 <!-- ![Zlaepek's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeon23&show_icons=true&theme=radical) -->
 
 ### ■ NOTION ■
