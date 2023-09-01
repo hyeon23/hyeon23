@@ -13,19 +13,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1> </h1>
-
 <div align="center">
-<h1>HYEON's GITHUB</h1>
-
 --------------------------------
 
-<!-- ![Zlaepek's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeon23&show_icons=true&theme=radical) -->
+<h1>HYEON's GITHUB</h1>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeon23)](https://github.com/anuraghazra/github-readme-stats)
+
+![Zlaepek's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeon23&show_icons=true&theme=radical)
 
 ### ■ NOTION ■
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://versed-pigment-371.notion.site/4a696b9f0df7439fa4e081e6cfbfddcf?pvs=4)
-
-
 
 ### ■ MAIN SPEC ■
 [![My Skills](https://skillicons.dev/icons?i=unity,cs,cpp,c)](https://skillicons.dev)<br>
@@ -37,9 +35,9 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=github,git)](https://skillicons.dev)<br>
 
 ### ■ TRIED ■
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,linux,lua)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,java,linux)](https://skillicons.dev)<br>
 
-[![My Skills](https://skillicons.dev/icons?i=py,kotlin,androidstudio,firebase,postman)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=lua,kotlin,androidstudio,firebase,postman)](https://skillicons.dev)<br>
 
 ----------------------------
 
