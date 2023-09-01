@@ -12,21 +12,23 @@
 
 ***
 
+<span></span>
+
 #### ■ NOTION ■
-<span style="background-color:#FFFFCC"><b>#click here</b><br></span>
-[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://versed-pigment-371.notion.site/4a696b9f0df7439fa4e081e6cfbfddcf?pvs=4)
+<b>#click here</b><br>
+[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://versed-pigment-371.notion.site/4a696b9f0df7439fa4e081e6cfbfddcf?pvs=4)<br>
 
 #### ■ MAIN SPEC ■
 [![My Skills](https://skillicons.dev/icons?i=unity,cs,cpp,c)](https://skillicons.dev)<br>
 
-#### ■ IDE ■
+#### ■ IDE ■<br>
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,idea)](https://skillicons.dev)<br>
 
-#### ■ VERSION VONTROL ■
+#### ■ VERSION VONTROL ■<br>
 [![My Skills](https://skillicons.dev/icons?i=github,git)](https://skillicons.dev)<br>
 
-#### ■ TRIED ■
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,java,linux)](https://skillicons.dev)<br>
+#### ■ TRIED ■<br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,java,linux)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=lua,kotlin,androidstudio,firebase,postman)](https://skillicons.dev)<br>
 
