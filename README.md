@@ -7,7 +7,7 @@
 ***
 
 #### ■ NOTION ■
-<span style="background-color:#FFFFCC"><b>click here</b><br></span>
+<span style="background-color:#FFFFCC"><b>#click here</b><br></span>
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://versed-pigment-371.notion.site/4a696b9f0df7439fa4e081e6cfbfddcf?pvs=4)
 
 ***
