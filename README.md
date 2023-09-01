@@ -24,7 +24,7 @@
 #### ■ IDE ■<br>
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,idea)](https://skillicons.dev)<br>
 
-#### ■ VERSION VONTROL ■<br>
+#### ■ VERSION CONTROL ■<br>
 [![My Skills](https://skillicons.dev/icons?i=github,git)](https://skillicons.dev)<br>
 
 #### ■ TRIED ■<br>
