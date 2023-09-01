@@ -2,16 +2,15 @@
 
 ***
  
-# <b>◀ HYEON's GITHUB ▶</b>
+## <b>HYEON's GITHUB</b>
 
 ***
-  
+
 #### ■ NOTION ■
-<span stype='color:red'><b>click here</b></span><br>
+<span style="background-color:yellow"><b>click here</b><br></span>
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://versed-pigment-371.notion.site/4a696b9f0df7439fa4e081e6cfbfddcf?pvs=4)
 
 ***
-
 
 #### ■ MAIN SPEC ■
 [![My Skills](https://skillicons.dev/icons?i=unity,cs,cpp,c)](https://skillicons.dev)<br>
