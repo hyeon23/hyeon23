@@ -1,14 +1,13 @@
 # <div align="center"><b>_hyeon23_</b><br></div>
+##### <div align="center">:kr: `Seoul Korea` | :books: `Konkuk University` |  :computer: `Computer Engineering`</br></div>
 
 <div align="center">
 
 ***
-
 #### ■ TIER ■
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=urim2270)](https://solved.ac/urim2270)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=urim2270)](https://solved.ac/urim2270)</br>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=urim2270)](https://solved.ac/urim2270/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=urim2270)](https://solved.ac/urim2270/)</br>
 
 ***
 
