@@ -1,5 +1,5 @@
 # <div align="center"><b>_hyeon23_</b><br></div>
-##### <div align="center">:kr: `Seoul Korea` | :books: `Konkuk University` |  :computer: `Computer Engineering`</br></div>
+##### <div align="center">:kr: `Seoul, Korea` | :books: `Konkuk University` |  :computer: `Computer Engineering`</br></div>
 
 <div align="center">
 
