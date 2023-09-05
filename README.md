@@ -32,8 +32,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zlaepek&layout=compact)](https://github.com/hyeon23/github-readme-stats)
 
-[![Email Badge](http://img.shields.io/badge/-Gmail-orange?style=flat&logo=Gmail&logoColor=white)](mailto:urim2270@gmail.com)
-
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=2E8B57&height=200&section=footer)
 </box>
 
