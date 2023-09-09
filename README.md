@@ -7,7 +7,6 @@
 #### ■ TIER ■
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=urim2270)](https://solved.ac/urim2270/)</br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=urim2270)](https://solved.ac/urim2270/)</br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=urim2270&show_icons=true&theme=radical)
 ***
 
 <span></span>
