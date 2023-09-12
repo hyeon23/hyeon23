@@ -7,6 +7,8 @@
 <b>#click here</b><br>
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://versed-pigment-371.notion.site/4519d0be407f45c892bdd938c6c9a611?pvs=4)<br> -->
 
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeon23&show_icons=true&theme=radical) -->
+
 ***
 
 #### ■ TIER ■
