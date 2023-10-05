@@ -88,15 +88,16 @@
 
 <img width="400" alt="EarthDefenseCorps" src="https://github.com/hyeon23/hyeon23/assets/77566434/713a4909-9cc2-43bf-83a1-b527294ecd6d">
 
-[Team's github repository](https://github.com/EarthDefenseCorps/earth-defense-corps-backend)
-
+[Individual github repository](https://github.com/hyeon23/EarthDefenseCorps)</br>
+[DB Team's github repository](https://github.com/EarthDefenseCorps/earth-defense-corps-backend)
+[Earth Defense Corps Google Play Store](https://play.google.com/store/apps/details?id=com.devurim.earthdefensecorps&hl=en-KR)
 -------
 
 ### [2023.09 ~ 2023.11] </br> [InvisibleVR] Resign
 
 -------
 
-<img width="400" alt="Resign" src="https://github.com/hyeon23/hyeon23/assets/77566434/713a4909-9cc2-43bf-83a1-b527294ecd6d">
+<img width="400" alt="Resign" src="">
 
 [Team's github repository](https://github.com/EarthDefenseCorps/earth-defense-corps-backend)
 
