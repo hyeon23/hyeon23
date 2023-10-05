@@ -32,20 +32,15 @@
 
 ***
 
-### [2022.8 ~ current dev] LiveWith_Team (NextJs CMS Frontend) 
+### [2021.11 ~ 2022.02] </br> [EDGE] 눈을 떠보니, 마왕이었던 아빠가 죽아 있어서, 용사를 물리치러 갑니다.
 
 ----------
 
 <img width="400" alt="Screenshot 2023-03-19 at 4 28 33 PM" src="https://user-images.githubusercontent.com/105579811/227689153-0a218c23-cc31-420c-9b99-cafd12ff92d7.png">
 
-[Team's CMS page](https://cms.livewithtogether.com/authentication/login?returnUrl=%2F)  
-[Mymura App-Play Store](https://play.google.com/store/apps/details?id=com.livewithtogether.nyam)   
-[Mymura App-App Store](https://apps.apple.com/kr/app/%EB%83%A0-nyam/id6443465109)
-
-
 -----------
 
-### [2023.01 ~2023.03] Greendar (Java SpringBoot Backend) 
+### [2021.11 ~ 2022.02] </br> [Individual] Waggles!
 
 -------
 
@@ -57,7 +52,17 @@
 
 -------
 
-### [2023.03 ~2023.05] EarthDefenseCorps (Java SpringBoot Backend) 
+### [2022.03 ~ 2022.06] </br> [KUnity] AR Fishing
+
+-------
+
+<img width="200" alt="Screenshot 2023-03-19 at 4 28 33 PM" src="https://github.com/KUnity/AR_Mobile_Fishing_Game">
+
+[Team's github repository](https://github.com/EarthDefenseCorps/earth-defense-corps-backend)
+
+-------
+
+### [2022.09 ~ 2022.12] </br> [KUCook] KUC
 
 -------
 
@@ -66,9 +71,38 @@
 [Team's github repository](https://github.com/EarthDefenseCorps/earth-defense-corps-backend)
 
 -------
-### [2023.06 ~]  (Java SpringBoot Backend & start up app)
+
+### [2022.09 ~ 2022.11] </br> [넥슨의 개] 날치날다.
 
 -------
+
+<img width="200" alt="Screenshot 2023-03-19 at 4 28 33 PM" src="https://github.com/EarthDefenseCorps/earth-defense-corps-backend/assets/105579811/82237456-9592-449d-bcb0-46bed100f10b">
+
+[Team's github repository](https://github.com/EarthDefenseCorps/earth-defense-corps-backend)
+
+-------
+
+### [2023.02 ~ 2023.6] </br> [Steelz(Individual)] Earth Defense Corps
+
+-------
+
+<img width="200" alt="Screenshot 2023-03-19 at 4 28 33 PM" src="https://github.com/EarthDefenseCorps/earth-defense-corps-backend/assets/105579811/82237456-9592-449d-bcb0-46bed100f10b">
+
+[Team's github repository](https://github.com/EarthDefenseCorps/earth-defense-corps-backend)
+
+-------
+
+### [2023.09 ~ 2023.11] </br> [InvisibleVR] Resign
+
+-------
+
+<img width="200" alt="Screenshot 2023-03-19 at 4 28 33 PM" src="https://github.com/EarthDefenseCorps/earth-defense-corps-backend/assets/105579811/82237456-9592-449d-bcb0-46bed100f10b">
+
+[Team's github repository](https://github.com/EarthDefenseCorps/earth-defense-corps-backend)
+
+-------
+
+
 
 [![Email Badge](http://img.shields.io/badge/-Nmail-Green?style=flat&logo=Nmail&logoColor=White)](mailto:urim2270@naver.com)
 
