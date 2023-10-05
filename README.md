@@ -32,7 +32,8 @@
 
 ***
 
-### [2021.11 ~ 2022.02] </br> [EDGE] 눈을 떠보니, 마왕이었던 아빠가 죽아 있어서, 용사를 물리치러 갑니다.
+##### [2021.11 ~ 2022.02]
+### [EDGE] 눈을 떠보니, 마왕이었던 아빠가 죽아 있어서, 용사를 물리치러 갑니다.
 
 ----------
 
@@ -42,7 +43,8 @@
 
 -----------
 
-### [2021.11 ~ 2022.02] </br> [Individual] Waggles!
+##### [2021.11 ~ 2022.02]
+### [Individual] Waggles!
 
 -------
 
@@ -52,7 +54,8 @@
 
 -------
 
-### [2022.03 ~ 2022.06] </br> [KUnity] AR Mobile Fishing
+##### [2022.03 ~ 2022.06]
+### [KUnity] AR Mobile Fishing
 
 -------
 
@@ -62,7 +65,8 @@
 
 -------
 
-### [2022.09 ~ 2022.12] </br> [KUCook] KUC!
+##### [2022.09 ~ 2022.12]
+### [KUCook] KUC!
 
 -------
 
@@ -72,7 +76,8 @@
 
 -------
 
-### [2022.09 ~ 2022.11] </br> [넥슨의 개] 날치-날다 & 월척! 낚시왕
+##### [2022.09 ~ 2022.11] 
+### [넥슨의 개] 날치-날다 & 월척! 낚시왕
 
 -------
 
@@ -83,7 +88,8 @@
 
 -------
 
-### [2023.02 ~ 2023.6] </br> [Steelz(Individual)] Earth Defense Corps
+##### [2023.02 ~ 2023.6]
+### [Steelz(Individual)] Earth Defense Corps
 
 -------
 
@@ -94,7 +100,8 @@
 ###### [3. Earth Defense Corps Google Play Store](https://play.google.com/store/apps/details?id=com.devurim.earthdefensecorps&hl=en-KR)
 -------
 
-### [2023.09 ~ 2023.11] </br> [InvisibleVR] Resign
+##### [2023.09 ~]
+### [InvisibleVR] Resign
 
 -------
 
