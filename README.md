@@ -36,7 +36,7 @@
 
 ----------
 
-<img width="400" alt="Screenshot 2023-03-19 at 4 28 33 PM" src="https://user-images.githubusercontent.com/105579811/227689153-0a218c23-cc31-420c-9b99-cafd12ff92d7.png">
+<img width="400" alt="EDGE" src="https://github.com/hyeon23/hyeon23/assets/77566434/72afdf20-6f6e-453e-a11e-5aecbdbd5a15">
 
 -----------
 
