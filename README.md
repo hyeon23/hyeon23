@@ -44,7 +44,7 @@
 
 -------
 
-<img width="400" alt="Screenshot 2023-03-19 at 4 28 33 PM" src="https://user-images.githubusercontent.com/105579811/227689492-67bb8854-6b48-4740-b951-50c2a21a7c85.jpeg">
+<img width="400" alt="Waggles" src="https://github.com/hyeon23/hyeon23/assets/77566434/62820932-36cc-4756-abfe-51d3c667cf44">
 
 [Team into video](https://www.youtube.com/watch?v=aUiaK_zgogw)
 
@@ -56,17 +56,17 @@
 
 -------
 
-<img width="400" alt="Screenshot 2023-03-19 at 4 28 33 PM" src="https://user-images.githubusercontent.com/105579811/227689492-67bb8854-6b48-4740-b951-50c2a21a7c85.jpeg">
+<img width="400" alt="ARFishing" src="https://github.com/hyeon23/hyeon23/assets/77566434/08ae1c2d-e15b-42e1-a37a-73f64f0f42e4">
 
 [Team's github repository](https://github.com/KUnity/AR_Mobile_Fishing_Game)
 
 -------
 
-### [2022.09 ~ 2022.12] </br> [KUCook] KUC
+### [2022.09 ~ 2022.12] </br> [KUCook] KUC!
 
 -------
 
-<img width="200" alt="Screenshot 2023-03-19 at 4 28 33 PM" src="https://github.com/EarthDefenseCorps/earth-defense-corps-backend/assets/105579811/82237456-9592-449d-bcb0-46bed100f10b">
+<img width="400" alt="KUC!" src="https://github.com/hyeon23/hyeon23/assets/77566434/15e99130-9748-4abb-ad3b-475f37858c26">
 
 [Team's github repository](https://github.com/EarthDefenseCorps/earth-defense-corps-backend)
 
@@ -76,7 +76,7 @@
 
 -------
 
-<img width="200" alt="Screenshot 2023-03-19 at 4 28 33 PM" src="https://github.com/EarthDefenseCorps/earth-defense-corps-backend/assets/105579811/82237456-9592-449d-bcb0-46bed100f10b">
+<img width="400" alt="날치 날다" src="https://github.com/hyeon23/hyeon23/assets/77566434/c2bea632-5685-4425-8fbd-b106b1959f52">
 
 [Team's github repository](https://github.com/EarthDefenseCorps/earth-defense-corps-backend)
 
@@ -86,7 +86,7 @@
 
 -------
 
-<img width="200" alt="Screenshot 2023-03-19 at 4 28 33 PM" src="https://github.com/EarthDefenseCorps/earth-defense-corps-backend/assets/105579811/82237456-9592-449d-bcb0-46bed100f10b">
+<img width="400" alt="EarthDefenseCorps" src="https://github.com/hyeon23/hyeon23/assets/77566434/713a4909-9cc2-43bf-83a1-b527294ecd6d">
 
 [Team's github repository](https://github.com/EarthDefenseCorps/earth-defense-corps-backend)
 
@@ -96,7 +96,7 @@
 
 -------
 
-<img width="200" alt="Screenshot 2023-03-19 at 4 28 33 PM" src="https://github.com/EarthDefenseCorps/earth-defense-corps-backend/assets/105579811/82237456-9592-449d-bcb0-46bed100f10b">
+<img width="400" alt="Resign" src="https://github.com/hyeon23/hyeon23/assets/77566434/713a4909-9cc2-43bf-83a1-b527294ecd6d">
 
 [Team's github repository](https://github.com/EarthDefenseCorps/earth-defense-corps-backend)
 
