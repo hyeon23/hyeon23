@@ -70,7 +70,6 @@
 
 -------
 
-[![Dev Blog Badge](http://img.shields.io/badge/Tech%20Blog-11B48A?style=flat&logo=Vimeo&logoColor=white)](https://blog-full-of-desire.vercel.app/) 
 [![Email Badge](http://img.shields.io/badge/-Nmail-Green?style=flat&logo=Nmail&logoColor=White)](mailto:urim2270@naver.com)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=2E8B57&height=200&section=footer)
