@@ -38,6 +38,8 @@
 
 <img width="400" alt="EDGE" src="https://github.com/hyeon23/hyeon23/assets/77566434/72afdf20-6f6e-453e-a11e-5aecbdbd5a15">
 
+###### [1. Individual github repository](https://github.com/hyeon23/Waggles)
+
 -----------
 
 ### [2021.11 ~ 2022.02] </br> [Individual] Waggles!
@@ -46,9 +48,7 @@
 
 <img width="400" alt="Waggles" src="https://github.com/hyeon23/hyeon23/assets/77566434/62820932-36cc-4756-abfe-51d3c667cf44">
 
-[Team into video](https://www.youtube.com/watch?v=aUiaK_zgogw)
-
-[Team's github repository](https://github.com/Team-Greendar/GreendarServer)
+###### [1. Individual github repository](https://github.com/hyeon23/Waggles)
 
 -------
 
@@ -58,7 +58,7 @@
 
 <img width="400" alt="ARFishing" src="https://github.com/hyeon23/hyeon23/assets/77566434/08ae1c2d-e15b-42e1-a37a-73f64f0f42e4">
 
-[Team's github repository](https://github.com/KUnity/AR_Mobile_Fishing_Game)
+###### [1. Team's github repository](https://github.com/KUnity/AR_Mobile_Fishing_Game)
 
 -------
 
@@ -68,17 +68,18 @@
 
 <img width="400" alt="KUC!" src="https://github.com/hyeon23/hyeon23/assets/77566434/15e99130-9748-4abb-ad3b-475f37858c26">
 
-[Team's github repository](https://github.com/EarthDefenseCorps/earth-defense-corps-backend)
+###### [1. Team's github repository](https://github.com/IUC2/KUC)
 
 -------
 
-### [2022.09 ~ 2022.11] </br> [넥슨의 개] 날치날다.
+### [2022.09 ~ 2022.11] </br> [넥슨의 개] 날치-날다 & 월척! 낚시왕
 
 -------
 
-<img width="400" alt="날치 날다" src="https://github.com/hyeon23/hyeon23/assets/77566434/c2bea632-5685-4425-8fbd-b106b1959f52">
+<img width="400" alt="날치 날다1" src="https://github.com/hyeon23/hyeon23/assets/77566434/c2bea632-5685-4425-8fbd-b106b1959f52">
+<img width="400" alt="날치 날다2" src="https://github.com/hyeon23/hyeon23/assets/77566434/02af383f-5e08-43fd-a497-a73eeba92c67">
 
-[Team's github repository](https://github.com/EarthDefenseCorps/earth-defense-corps-backend)
+###### [1. 날치-날다 MapleStory Worlds](https://maplestoryworlds.nexon.com/ko/play/23b1185ea0e84a05acba212142b9d36f/)
 
 -------
 
