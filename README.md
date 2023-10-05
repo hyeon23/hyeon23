@@ -56,9 +56,9 @@
 
 -------
 
-<img width="200" alt="Screenshot 2023-03-19 at 4 28 33 PM" src="https://github.com/KUnity/AR_Mobile_Fishing_Game">
+<img width="400" alt="Screenshot 2023-03-19 at 4 28 33 PM" src="https://user-images.githubusercontent.com/105579811/227689492-67bb8854-6b48-4740-b951-50c2a21a7c85.jpeg">
 
-[Team's github repository](https://github.com/EarthDefenseCorps/earth-defense-corps-backend)
+[Team's github repository](https://github.com/KUnity/AR_Mobile_Fishing_Game)
 
 -------
 
