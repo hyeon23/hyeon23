@@ -85,7 +85,7 @@
 <img width="250" alt="날치 날다2" src="https://github.com/hyeon23/hyeon23/assets/77566434/c2bea632-5685-4425-8fbd-b106b1959f52">
 <img width="190" alt="MOD 수료증" src="https://github.com/hyeon23/hyeon23/assets/77566434/b1c469a7-b91b-47a2-bf60-03de44ab05e2">
 
-###### [1. 날치-날다 MapleStory Worlds](https://maplestoryworlds.nexon.com/ko/play/23b1185ea0e84a05acba212142b9d36f/)
+###### [1. MapleStory Worlds](https://maplestoryworlds.nexon.com/ko/play/23b1185ea0e84a05acba212142b9d36f/)
 
 -------
 
