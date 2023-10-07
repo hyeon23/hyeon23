@@ -108,7 +108,7 @@
 
 <img width="400" alt="Resign" src="">
 
-[Team's github repository](https://github.com/EarthDefenseCorps/earth-defense-corps-backend)
+[Team's github repository]()
 
 -------
 
