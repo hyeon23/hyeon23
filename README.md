@@ -39,6 +39,8 @@
 
 <img width="400" alt="EDGE" src="https://github.com/hyeon23/hyeon23/assets/77566434/72afdf20-6f6e-453e-a11e-5aecbdbd5a15">
 
+###### [1. Team's github repository](https://github.com/hyeon23/MAWANGYONGSA)
+
 -----------
 
 ##### [2021.11 ~ 2022.02]
