@@ -16,7 +16,7 @@
 [![My Skills](https://skillicons.dev/icons?i=unity,cs,cpp,c)](https://skillicons.dev)<br>
 
 #### ■ IDE ■<br>
-[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,idea)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode)](https://skillicons.dev)<br>
 
 #### ■ VERSION CONTROL ■<br>
 [![My Skills](https://skillicons.dev/icons?i=github,git)](https://skillicons.dev)<br>
