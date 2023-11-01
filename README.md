@@ -99,18 +99,16 @@
 ###### [3. Earth Defense Corps Google Play Store](https://play.google.com/store/apps/details?id=com.devurim.earthdefensecorps&hl=en-KR)
 -------
 
-##### [2023.09 ~]
+##### [2023.09 ~ 2023.11]
 ### [InvisibleVR] Resign
 
 -------
 
-<img width="400" alt="Resign" src="">
+<img width="400" alt="EarthDefenseCorps" src="https://github.com/hyeon23/hyeon23/assets/77566434/5d8fe608-44fb-465f-bfa7-3406fb62b2aa">
 
-[Team's github repository]()
+###### [1. Team's github repository](https://github.com/InvisiVR/InvisibleVR)
 
 -------
-
-
 
 [![Email Badge](http://img.shields.io/badge/-Nmail-Green?style=flat&logo=Nmail&logoColor=White)](mailto:urim2270@naver.com)
 
