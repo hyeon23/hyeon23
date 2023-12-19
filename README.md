@@ -1,32 +1,26 @@
 # <div align="center">_hyeon23_</div>
 
 <div align="center">
-<!-- #### ■ NOTION ■ <b>#click here</b><br> [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://versed-pigment-371.notion.site/4519d0be407f45c892bdd938c6c9a611?pvs=4)<br> -->
-
-***
 
 ##### :kr: `Seoul Korea` | :books: `Konkuk University` |  :computer: `Computer Engineering`
 
-#### ■ TIER ■
-<!--[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=urim2270)](https://solved.ac/urim2270/)</br>-->
-<!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=urim2270)](https://solved.ac/urim2270/)</br>-->
-<a target="_blank" href="https://solved.ac/profile/urim2270"><img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=urim2270"></a>
+### BOJ TIER
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=urim2270)](https://solved.ac/urim2270/)</br>
+<!--<a target="_blank" href="https://solved.ac/profile/urim2270"><img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=urim2270"></a>-->
 
-#### ■ MAIN SPEC ■<br>
+### MAIN SPEC
 [![My Skills](https://skillicons.dev/icons?i=unity,cs,cpp,c)](https://skillicons.dev)<br>
+### IDE
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode)](https://skillicons.dev)  
+### VERSION CONTROL
+[![My Skills](https://skillicons.dev/icons?i=github,git)](https://skillicons.dev)
 
-#### ■ IDE ■<br>
-[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode)](https://skillicons.dev)<br>
+<img src="https://img.shields.io/badge/SourceTree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white">
 
-#### ■ VERSION CONTROL ■<br>
-[![My Skills](https://skillicons.dev/icons?i=github,git)](https://skillicons.dev)<br>
-
-#### ■ TRIED ■<br>
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,java,linux)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=lua,kotlin,androidstudio,firebase,postman,mysql)](https://skillicons.dev)<br><br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zlaepek&layout=compact)](https://github.com/hyeon23/github-readme-stats)
+### TRIED
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,java,linux)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=lua,kotlin,androidstudio,firebase,postman,mysql,netlify)](https://skillicons.dev)<br>
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zlaepek&layout=compact)](https://github.com/hyeon23/github-readme-stats)-->
 
 ***
 
