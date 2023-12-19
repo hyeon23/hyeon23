@@ -4,12 +4,7 @@
 
 ##### :kr: `Seoul Korea` | 🏛 `Konkuk University` |  :computer: `Computer Engineering`
 
-##### 📚 `Blog` : https://velog.io/@hyeon23
-
-[![Email Badge](http://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:urim2270@naver.com)
-[![Email Badge](http://img.shields.io/badge/-Nmail-03C75A?style=flat&logo=naver&logoColor=white)](mailto:urim2270@naver.com)
-
-
+##### 🔗 `Links` : [![Email Badge](http://img.shields.io/badge/-velog-20C997?style=flat&logo=velog&logoColor=white)](https://velog.io/@hyeon23) [![Email Badge](http://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:urim2270@naver.com) [![Email Badge](http://img.shields.io/badge/-Nmail-03C75A?style=flat&logo=naver&logoColor=white)](mailto:urim2270@naver.com)
 
 </div>
 
@@ -24,8 +19,9 @@
 ---
 
 <div align="center">
-  
+
 ### BOJ TIER
+<!--[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=urim2270)](https://solved.ac/urim2270)-->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=urim2270)](https://solved.ac/urim2270/)</br>
 <!--<a target="_blank" href="https://solved.ac/profile/urim2270"><img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=urim2270"></a>-->
 
