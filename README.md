@@ -54,7 +54,7 @@
 
 <div align="left">
 
-#### 1. 게임개발동아리 EDGE 게임개발경진대회, 최우수상 - 💀 마왕용사
+#### 게임개발동아리 EDGE 게임개발경진대회, 최우수상 - 💀 마왕용사
 - **Dimension:** 10 Teams+
 - **Team:** Noname, 4, Game Design | Dot Design
 - **Duration:** 2023.7
@@ -64,7 +64,7 @@
 
 ---
 
-#### 2. 2022 KU 드림학기제 우수 프로젝트, 우수상 - 👾 Earth Defense Corps
+#### 2022 KU 드림학기제 우수 프로젝트, 우수상 - 👾 Earth Defense Corps
 - **Dimension:** 30 Teams+
 - **Team:** Steelz, 1, Solo
 - **Duration:** 2023.7
@@ -74,7 +74,7 @@
 
 ---
 
-#### 3. 2023 KU SW 경진대회, 대상 - 👁 Resign
+#### 2023 KU SW 경진대회, 대상 - 👁 Resign
 - **Dimension:** 200 Teams+
 - **Team:** InvisibleVR, Leader | Game Director | Game Designer | Game Client Programmer
 - **Duration:** 2023.11
