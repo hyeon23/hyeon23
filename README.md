@@ -4,26 +4,12 @@
 
 ##### :kr: `Seoul Korea` | 🏛 `Konkuk University` |  :computer: `Computer Engineering`
 
-##### 📚 `Blog` : https://velog.io/@hyeon23
+##### 📚 `Blog` : https://velog.io/@hyeon23 | 
 
-</div>
+[![Email Badge](http://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:urim2270@naver.com)
+[![Email Badge](http://img.shields.io/badge/-Nmail-03C75A?style=flat&logo=naver&logoColor=white)](mailto:urim2270@naver.com)
 
----
 
-<div align="left">
-
-### Main Projects
-
-#### 1. 👾 Earth Defense Corps
-- **Duration:**  2023.04 ~ 2023.05 , 2023.08 ~
-- **Description:** 한국외대 캡스톤 프로젝트 , 반려인들의 여행 정보를 위한 앱 , 웹 서비스
-- **Tech Stack:** SpringBoot, AWS , Nginx ,OpenApi 
-- **Repo:** [GitHub Link](https://github.com/HUFS-Capstone-23-01/TravelFeelDog-Server)
-
-Duration: 2022.10 ~ 2023.04
-Description: 한국외대 캠퍼스타운 스타트업 프로젝트, 대학상권의 각종 정보를 대학생에게 제공 해주는 서비스
-Tech Stack: NestJs, AWS, MongoDB
-Repo: private : GitHub Link
 
 </div>
 
@@ -46,10 +32,21 @@ Repo: private : GitHub Link
 
 ### TRIED
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,py,java,linux)](https://skillicons.dev)<br>
-[![My Skills](https://skillicons.dev/icons?i=lua,kotlin,androidstudio,firebase,postman,mysql,netlify)](https://skillicons.dev)<br>
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zlaepek&layout=compact)](https://github.com/hyeon23/github-readme-stats)-->
+[![My Skills](https://skillicons.dev/icons?i=lua,kotlin,androidstudio,firebase,postman,mysql,netlify)](https://skillicons.dev)
 
-***
+---
+
+<div align="left">
+
+### Main Projects
+
+#### 1. 👾 Earth Defense Corps
+- **Duration:**  2023.04 ~ 2023.05 , 2023.08 ~
+- **Description:** 한국외대 캡스톤 프로젝트 , 반려인들의 여행 정보를 위한 앱 , 웹 서비스
+- **Tech Stack:** SpringBoot, AWS , Nginx ,OpenApi 
+- **Repo:** [GitHub Link](https://github.com/HUFS-Capstone-23-01/TravelFeelDog-Server)
+
+</div>
 
 ##### [2021.11 ~ 2022.02]
 ### [EDGE] 마왕용사
@@ -130,8 +127,6 @@ Repo: private : GitHub Link
 ###### [1. Team's github repository](https://github.com/InvisiVR/InvisibleVR)
 
 -------
-
-[![Email Badge](http://img.shields.io/badge/-Nmail-Green?style=flat&logo=Nmail&logoColor=White)](mailto:urim2270@naver.com)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=2E8B57&height=200&section=footer)
 </box>
