@@ -2,8 +2,22 @@
 
 <div align="center">
 
-##### :kr: `Seoul Korea` | :books: `Konkuk University` |  :computer: `Computer Engineering`
+##### :kr: `Seoul Korea` | 🏛 `Konkuk University` |  :computer: `Computer Engineering`
 
+##### 📚 `Blog` : https://velog.io/@hyeon23
+
+</div>
+
+---
+
+<div align="left">
+
+</div>
+
+---
+
+<div align="center">
+  
 ### BOJ TIER
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=urim2270)](https://solved.ac/urim2270/)</br>
 <!--<a target="_blank" href="https://solved.ac/profile/urim2270"><img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=urim2270"></a>-->
