@@ -115,12 +115,13 @@
 
 -------
 
-#### [MSW X SUPER HACKATHON 2022] - 월척! 낚시왕 & 날치-날다 <img width="15%" alt="날치 날다2" align='right' src="https://github.com/hyeon23/hyeon23/assets/77566434/c2bea632-5685-4425-8fbd-b106b1959f52"><img width="15%" alt="월척! 낚시왕1" align='right' src="https://github.com/hyeon23/hyeon23/assets/77566434/02af383f-5e08-43fd-a497-a73eeba92c67">
+#### [MSW X SUPER HACKATHON 2022] - 월척! 낚시왕 & 날치-날다 <img width="14%" alt="월척! 낚시왕1" align='right' src="https://github.com/hyeon23/hyeon23/assets/77566434/02af383f-5e08-43fd-a497-a73eeba92c67">
 - **Team:** 넥슨의 개, 3(member), '날치 날다' Game Design | '날치 날다' Game Client Programming
-- **Duration:** 2022.09 ~ 2022.11<img width="15%" alt="MOD 수료증" align='right' src="https://github.com/hyeon23/hyeon23/assets/77566434/b1c469a7-b91b-47a2-bf60-03de44ab05e2">
-- **Description:** 월척! 낚시왕 내 항아리류 미니 게임 '날치-날다' 기획 및 개발
+- **Duration:** 2022.09 ~ 2022.11<!-- <img width="15%" alt="MOD 수료증" src="https://github.com/hyeon23/hyeon23/assets/77566434/b1c469a7-b91b-47a2-bf60-03de44ab05e2">-->
+- **Description:** 월척! 낚시왕 내 항아리류 미니 게임 '날치-날다' 기획 및 개발 <img width="14%" alt="날치 날다2" align='right' src="https://github.com/hyeon23/hyeon23/assets/77566434/c2bea632-5685-4425-8fbd-b106b1959f52">
 - **Tech Stack:** MSW, Network Programming, Lua 2D PC
 - **Repo:** [MapleStory Worlds](https://maplestoryworlds.nexon.com/ko/play/23b1185ea0e84a05acba212142b9d36f/)
+
 
 -------
 
@@ -142,7 +143,7 @@
 
 -------
 
-#### [KU SW경진대회] - Resign <img width="30%" alt="Resign" align='right' src="https://github.com/hyeon23/hyeon23/assets/77566434/5d8fe608-44fb-465f-bfa7-3406fb62b2aa">
+#### [졸업프로젝트2] - Resign <img width="13%" alt="Resign" align='right' src="https://github.com/hyeon23/hyeon23/assets/77566434/509f86dd-ce33-4afd-aaae-e641720522cb">
 - **Team:** InvisibleVR, 3(Leader) | Game Production | Game Design | Game Client Programming
 - **Duration:** 2023.09 ~ 2023.11
 - **Description:** VR FPS 사용자 반응형 공포 탈출 게임
