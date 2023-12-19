@@ -17,6 +17,14 @@
 
 <div align="center">
   
+### ⚙ Tech Stack
+  
+</div>
+
+---
+
+<div align="center">
+  
 ### BOJ TIER
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=urim2270)](https://solved.ac/urim2270/)</br>
 <!--<a target="_blank" href="https://solved.ac/profile/urim2270"><img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=urim2270"></a>-->
@@ -36,15 +44,43 @@
 
 ---
 
+<div align="center">
+
+### 🏆 Awards
+
+</div>
+
+---
+
 <div align="left">
 
-### Main Projects
+#### 1. 게임개발동아리 EDGE 게임개발경진대회, 최우수상 - 💀 마왕용사
+- **Dimension:** 10 Teams+
+- **Team:** Noname, 4, Game Design | Dot Design
+- **Duration:** 2023.7
+- **Description:** 건국대학교 드림학기제, 캐쥬얼 모바일 2D 게임 1인 개발
+- **Tech Stack:** Unity C# 2D Mobile
+- **Repo:** [github repository](https://github.com/hyeon23/EarthDefenseCorps)
 
-#### 1. 👾 Earth Defense Corps
-- **Duration:**  2023.04 ~ 2023.05 , 2023.08 ~
-- **Description:** 한국외대 캡스톤 프로젝트 , 반려인들의 여행 정보를 위한 앱 , 웹 서비스
-- **Tech Stack:** SpringBoot, AWS , Nginx ,OpenApi 
-- **Repo:** [GitHub Link](https://github.com/HUFS-Capstone-23-01/TravelFeelDog-Server)
+---
+
+#### 2. 2022 KU 드림학기제 우수 프로젝트, 우수상 - 👾 Earth Defense Corps
+- **Dimension:** 30 Teams+
+- **Team:** Steelz, 1, Solo
+- **Duration:** 2023.7
+- **Description:** 학생 주도적으로 한 학기를 설계해 프로젝트를 진행하는 드림학기제, 캐쥬얼 모바일 2D 게임 1인 개발
+- **Tech Stack:** Unity C# 2D Mobile
+- **Repo:** [github repository](https://github.com/hyeon23/EarthDefenseCorps)
+
+---
+
+#### 3. 2023 KU SW 경진대회, 대상 - 👁 Resign
+- **Dimension:** 200 Teams+
+- **Team:** InvisibleVR, Leader | Game Director | Game Designer | Game Client Programmer
+- **Duration:** 2023.11
+- **Description:** SW 관련 건국대 학생들의 졸업작품 및 교내외 참가작의 우열을 가리는 경진대회, VR FPS 사용자 반응형 공포 탈출 게임
+- **Tech Stack:** Unity C# 3D VR
+- **Repo:** [github repository](https://github.com/InvisiVR/InvisibleVR)
 
 </div>
 
