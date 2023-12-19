@@ -91,7 +91,7 @@
 #### [EDGE-게임개발경진대회] - 마왕용사 <img width="30%" alt="EDGE" align='right' src="https://github.com/hyeon23/hyeon23/assets/77566434/72afdf20-6f6e-453e-a11e-5aecbdbd5a15">
 - **Team:** Noname, 3(member), Game Design | Dot Design
 - **Duration:** 2021.11 ~ 2022.02
-- **Description:** 아이작, 슬레이더 스파이어 모작 게임 
+- **Description:** 아이작, 슬레이더 스파이어 모작 게임 기획 및 디자인
 - **Tech Stack:** Unity, Tilemap, C# 2D PC
 - **Repo:** [Team's github repository](https://github.com/hyeon23/MAWANGYONGSA)
 
@@ -100,7 +100,7 @@
 #### [Toy Project] - Waggles! <img width="30%" alt="Waggles" align='right' src="https://github.com/hyeon23/hyeon23/assets/77566434/62820932-36cc-4756-abfe-51d3c667cf44">
 - **Team:** Steelz, 1, Solo
 - **Duration:** 2021.11 ~ 2022.02
-- **Description:** Fruit Salad 모작 게임
+- **Description:** Fruit Salad 모작 게임 1인 개발
 - **Tech Stack:** Unity, C# 2D PC
 - **Repo:** [Individual github repository](https://github.com/hyeon23/Waggles)
 
@@ -109,7 +109,7 @@
 #### [산학협력프로젝트1] - AR Mobile Fishing <img width="30%" alt="ARMobileFishing" align='right' src="https://github.com/hyeon23/hyeon23/assets/77566434/08ae1c2d-e15b-42e1-a37a-73f64f0f42e4">
 - **Team:** KUnity, 6(member), Game Design | Game Client Programming
 - **Duration:** 2022.03 ~ 2022.06
-- **Description:** NFT 연동 AR 모바일 낚시 게임
+- **Description:** NFT 연동 AR 모바일 낚시 게임 기획 및 개발
 - **Tech Stack:** Unity, AR, NFT, C# 3D Mobile
 - **Repo:** [Team's github repository](https://github.com/KUnity/AR_Mobile_Fishing_Game)
 
@@ -128,7 +128,7 @@
 #### [산학협력프로젝트2] - KUC! <img width="30%" alt="KUC!" align='right' src="https://github.com/hyeon23/hyeon23/assets/77566434/15e99130-9748-4abb-ad3b-475f37858c26">
 - **Team:** KUCook, 6(Leader), Game Design | Game Client Programming
 - **Duration:** 2022.09 ~ 2022.12
-- **Description:** 무한 웨이브 레시피 기반 조합 타워 디펜스 게임
+- **Description:** 무한 웨이브 레시피 기반 조합 타워 디펜스 게임 총괄
 - **Tech Stack:** Unity, 조합, Tilemap, C# 2D PC
 - **Repo:** [Team's github repository](https://github.com/IUC2/KUC)
 
@@ -146,7 +146,7 @@
 #### [졸업프로젝트2] - Resign <img width="13%" alt="Resign" align='right' src="https://github.com/hyeon23/hyeon23/assets/77566434/509f86dd-ce33-4afd-aaae-e641720522cb">
 - **Team:** InvisibleVR, 3(Leader) | Game Production | Game Design | Game Client Programming
 - **Duration:** 2023.09 ~ 2023.11
-- **Description:** VR FPS 사용자 반응형 공포 탈출 게임
+- **Description:** VR FPS 사용자 반응형 공포 탈출 게임 총괄
 - **Tech Stack:** Unity, VR, C# 3D Android MetaQuest2
 - **Repo:** [Team's github repository](https://github.com/InvisiVR/InvisibleVR)
 
