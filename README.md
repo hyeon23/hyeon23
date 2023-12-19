@@ -18,7 +18,7 @@
 ---
 
 <div align="center">
-
+  
 #### BOJ TIER
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=urim2270)](https://solved.ac/urim2270/)</br>
 <!--[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=urim2270)](https://solved.ac/urim2270)-->
@@ -72,7 +72,7 @@
 - **Dimension:** 200 Teams+
 - **Team:** InvisibleVR, 3, Leader | Game Director | Game Designer | Game Client Programmer
 - **Duration:** 2023.11
-- **Description:** SW 관련 건국대 학생들의 졸업작품 및 교내외 참가작의 우열을 가리는 경진대회, VR FPS 사용자 반응형 공포 탈출 게임
+- **Description:** SW 전공 건국대 학생의 졸업작품 및 교내외 참가작의 우열을 가리는 경진대회, VR FPS 사용자 반응형 공포 탈출 게임
 - **Tech Stack:** Unity C# 3D VR
 - **Repo:** [Team's github repository](https://github.com/InvisiVR/InvisibleVR)
 
