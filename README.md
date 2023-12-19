@@ -56,9 +56,9 @@
 
 #### 게임개발동아리 EDGE 게임개발경진대회, 최우수상 - 💀 마왕용사
 - **Dimension:** 10 Teams+
-- **Team:** Noname, 4, Game Design | Dot Design
-- **Duration:** 2023.7
-- **Description:** 건국대학교 드림학기제, 캐쥬얼 모바일 2D 게임 1인 개발
+- **Team:** Noname, 3, Game Design | Dot Design
+- **Duration:** 2022.3
+- **Description:** EDGE 게임개발 경진대회, PC 2D 로그 라이크 게임
 - **Tech Stack:** Unity C# 2D Mobile
 - **Repo:** [Team's github repository](https://github.com/hyeon23/MAWANGYONGSA)
 
@@ -76,7 +76,7 @@
 
 #### 2023 KU SW 경진대회, 대상 - 👁 Resign
 - **Dimension:** 200 Teams+
-- **Team:** InvisibleVR, Leader | Game Director | Game Designer | Game Client Programmer
+- **Team:** InvisibleVR, 3, Leader | Game Director | Game Designer | Game Client Programmer
 - **Duration:** 2023.11
 - **Description:** SW 관련 건국대 학생들의 졸업작품 및 교내외 참가작의 우열을 가리는 경진대회, VR FPS 사용자 반응형 공포 탈출 게임
 - **Tech Stack:** Unity C# 3D VR
@@ -84,12 +84,19 @@
 
 </div>
 
+---
+
+<div align="center">
+
+### 🔥 Main Projects
+
+</div>
+
+---
+
 ##### [2021.11 ~ 2022.02]
-### [EDGE] 마왕용사
-
-----------
-
-<img width="400" alt="EDGE" src="https://github.com/hyeon23/hyeon23/assets/77566434/72afdf20-6f6e-453e-a11e-5aecbdbd5a15">
+### [EDGE] 마왕용사 
+<img width="25%" alt="EDGE" src="https://github.com/hyeon23/hyeon23/assets/77566434/72afdf20-6f6e-453e-a11e-5aecbdbd5a15">
 
 ###### [1. Team's github repository](https://github.com/hyeon23/MAWANGYONGSA)
 
