@@ -4,7 +4,7 @@
 
 ##### :kr: `Seoul Korea` | 🏛 `Konkuk University` |  :computer: `Computer Engineering`
 
-##### 🔗 `Links` : [![Email Badge](http://img.shields.io/badge/-velog-20C997?style=flat&logo=velog&logoColor=white)](https://velog.io/@hyeon23) [![Email Badge](http://img.shields.io/badge/-Nmail-03C75A?style=flat&logo=naver&logoColor=white)](mailto:urim2270@naver.com) [![Email Badge](http://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:urim2270@naver.com) 
+##### 🔗 `Links` : [![Email Badge](http://img.shields.io/badge/-velog-20C997?style=flat&logo=velog&logoColor=white)](https://velog.io/@hyeon23)  [![Email Badge](http://img.shields.io/badge/-Nmail-03C75A?style=flat&logo=naver&logoColor=white)](mailto:urim2270@naver.com)  [![Email Badge](http://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:urim2270@naver.com) 
 
 </div>
 
@@ -20,21 +20,21 @@
 
 <div align="center">
 
-### BOJ TIER
+#### BOJ TIER
 <!--[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=urim2270)](https://solved.ac/urim2270)-->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=urim2270)](https://solved.ac/urim2270/)</br>
 <!--<a target="_blank" href="https://solved.ac/profile/urim2270"><img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=urim2270"></a>-->
 
-### MAIN SPEC
+#### MAIN SPEC
 [![My Skills](https://skillicons.dev/icons?i=unity,cs,cpp,c)](https://skillicons.dev)<br>
-### IDE
+#### IDE
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode)](https://skillicons.dev)  
-### VERSION CONTROL
+#### VERSION CONTROL
 [![My Skills](https://skillicons.dev/icons?i=github,git)](https://skillicons.dev)
 
 <img src="https://img.shields.io/badge/SourceTree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white">
 
-### TRIED
+#### TRIED
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,py,java,linux)](https://skillicons.dev)<br>
 [![My Skills](https://skillicons.dev/icons?i=lua,kotlin,androidstudio,firebase,postman,mysql,netlify)](https://skillicons.dev)
 
