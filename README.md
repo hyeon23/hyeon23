@@ -70,7 +70,7 @@
 
 #### 2023 KU SW 경진대회, 대상(1st) - 👁 Resign
 - **Dimension:** 200 Teams+
-- **Team:** InvisibleVR, 3, Leader | Game Directing & Production | Game Design | Game Client Programming
+- **Team:** InvisibleVR, 3, Leader | Game Production | Game Design | Game Client Programming
 - **Duration:** 2023.11
 - **Description:** SW 전공 건국대 학생의 졸업작품 및 교내외 참가작의 우열을 가리는 경진대회, VR FPS 사용자 반응형 공포 탈출 게임
 - **Tech Stack:** Unity, VR, C# 3D Android MetaQuest2
@@ -143,7 +143,7 @@
 -------
 
 #### [KU SW경진대회] - Resign <img width="30%" alt="Resign" align='right' src="https://github.com/hyeon23/hyeon23/assets/77566434/5d8fe608-44fb-465f-bfa7-3406fb62b2aa">
-- **Team:** InvisibleVR, 3(Leader) | Game Directing & Production | Game Design | Game Client Programming
+- **Team:** InvisibleVR, 3(Leader) | Game Production | Game Design | Game Client Programming
 - **Duration:** 2023.09 ~ 2023.11
 - **Description:** VR FPS 사용자 반응형 공포 탈출 게임
 - **Tech Stack:** Unity, VR, C# 3D Android MetaQuest2
