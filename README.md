@@ -58,7 +58,7 @@
 
 ---
 
-#### 2022 KU 드림학기제 우수 프로젝트, 우수상(2nd) - 👾 Earth Defense Corps
+#### 2022 KU 드림학기제, 우수 프로젝트-우수상(2nd) - 👾 Earth Defense Corps
 - **Dimension:** 30 Teams+
 - **Team:** Steelz, 1, Solo
 - **Duration:** 2023.7
