@@ -4,7 +4,7 @@
 
 ##### :kr: `Seoul Korea` | 🏛 `Konkuk University` |  :computer: `Computer Engineering`
 
-##### 📚 `Blog` : https://velog.io/@hyeon23 | 
+##### 📚 `Blog` : https://velog.io/@hyeon23
 
 [![Email Badge](http://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:urim2270@naver.com)
 [![Email Badge](http://img.shields.io/badge/-Nmail-03C75A?style=flat&logo=naver&logoColor=white)](mailto:urim2270@naver.com)
@@ -60,7 +60,7 @@
 - **Duration:** 2023.7
 - **Description:** 건국대학교 드림학기제, 캐쥬얼 모바일 2D 게임 1인 개발
 - **Tech Stack:** Unity C# 2D Mobile
-- **Repo:** [github repository](https://github.com/hyeon23/EarthDefenseCorps)
+- **Repo:** [Team's github repository](https://github.com/hyeon23/MAWANGYONGSA)
 
 ---
 
@@ -70,7 +70,7 @@
 - **Duration:** 2023.7
 - **Description:** 학생 주도적으로 한 학기를 설계해 프로젝트를 진행하는 드림학기제, 캐쥬얼 모바일 2D 게임 1인 개발
 - **Tech Stack:** Unity C# 2D Mobile
-- **Repo:** [github repository](https://github.com/hyeon23/EarthDefenseCorps)
+- **Repo:** [Individual github repository](https://github.com/hyeon23/EarthDefenseCorps)
 
 ---
 
@@ -80,7 +80,7 @@
 - **Duration:** 2023.11
 - **Description:** SW 관련 건국대 학생들의 졸업작품 및 교내외 참가작의 우열을 가리는 경진대회, VR FPS 사용자 반응형 공포 탈출 게임
 - **Tech Stack:** Unity C# 3D VR
-- **Repo:** [github repository](https://github.com/InvisiVR/InvisibleVR)
+- **Repo:** [Team's github repository](https://github.com/InvisiVR/InvisibleVR)
 
 </div>
 
