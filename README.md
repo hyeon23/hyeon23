@@ -20,9 +20,15 @@
 
 <div align="center">
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=urim2270)](https://solved.ac/urim2270/)</br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeon23)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+<div align="center">
+
 #### BOJ TIER
 <!--[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=urim2270)](https://solved.ac/urim2270)-->
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=urim2270)](https://solved.ac/urim2270/)</br>
+
 <!--<a target="_blank" href="https://solved.ac/profile/urim2270"><img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=urim2270"></a>-->
 
 #### MAIN SPEC
@@ -37,6 +43,8 @@
 #### TRIED
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,py,java,linux)](https://skillicons.dev)<br>
 [![My Skills](https://skillicons.dev/icons?i=lua,kotlin,androidstudio,firebase,postman,mysql,netlify)](https://skillicons.dev)
+
+</div>
 
 ---
 
