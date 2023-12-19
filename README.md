@@ -12,6 +12,19 @@
 
 <div align="left">
 
+### Main Projects
+
+#### 1. 👾 Earth Defense Corps
+- **Duration:**  2023.04 ~ 2023.05 , 2023.08 ~
+- **Description:** 한국외대 캡스톤 프로젝트 , 반려인들의 여행 정보를 위한 앱 , 웹 서비스
+- **Tech Stack:** SpringBoot, AWS , Nginx ,OpenApi 
+- **Repo:** [GitHub Link](https://github.com/HUFS-Capstone-23-01/TravelFeelDog-Server)
+
+Duration: 2022.10 ~ 2023.04
+Description: 한국외대 캠퍼스타운 스타트업 프로젝트, 대학상권의 각종 정보를 대학생에게 제공 해주는 서비스
+Tech Stack: NestJs, AWS, MongoDB
+Repo: private : GitHub Link
+
 </div>
 
 ---
