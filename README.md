@@ -58,7 +58,7 @@
 
 ---
 
-#### 2022 KU 드림학기제, 우수 프로젝트-우수상(2nd) - 👾 Earth Defense Corps
+#### 2022 KU 드림학기제, 우수 프로젝트-우수상(2nd) - 👾 EarthDefenseCorps
 - **Dimension:** 30 Teams+
 - **Team:** Steelz, 1, Solo
 - **Duration:** 2023.7
@@ -134,7 +134,7 @@
 
 -------
 
-#### [드림학기제] - Earth Defense Corps <img width="30%" alt="EarthDefenseCorps" align='right' src="https://github.com/hyeon23/hyeon23/assets/77566434/713a4909-9cc2-43bf-83a1-b527294ecd6d">
+#### [드림학기제] - EarthDefenseCorps <img width="30%" alt="EarthDefenseCorps" align='right' src="https://github.com/hyeon23/hyeon23/assets/77566434/713a4909-9cc2-43bf-83a1-b527294ecd6d">
 - **Team:** Steelz, 1, Solo
 - **Duration:** 2023.02 ~ 2023.6
 - **Description:** 캐쥬얼 2D 모바일 종스크롤 블록 부수기 게임 1인 개발
