@@ -52,7 +52,7 @@
 - **Dimension:** 10 Teams+
 - **Team:** Noname, 3, Game Design | Dot Design
 - **Duration:** 2022.3
-- **Description:** EDGE 게임개발 경진대회, 아이작, 슬레이 더 스파이어 모작 로그 라이크 게임
+- **Description:** EDGE 게임개발 경진대회, 아이작, 슬레이 더 스파이어 기능 카피 로그 라이크 게임
 - **Tech Stack:** Unity, Tilemap, C# 2D PC
 - **Repo:** [Team's github repository](https://github.com/hyeon23/MAWANGYONGSA)
 
@@ -91,7 +91,7 @@
 #### [EDGE-게임개발경진대회] - 마왕용사 <img width="30%" alt="EDGE" align='right' src="https://github.com/hyeon23/hyeon23/assets/77566434/72afdf20-6f6e-453e-a11e-5aecbdbd5a15">
 - **Team:** Noname, 3(member), Game Design | Dot Design
 - **Duration:** 2021.11 ~ 2022.02
-- **Description:** 아이작, 슬레이더 스파이어 모작 게임 기획 및 디자인
+- **Description:** 아이작, 슬레이 더 스파이어 기능 카피 로그 라이크 게임
 - **Tech Stack:** Unity, Tilemap, C# 2D PC
 - **Repo:** [Team's github repository](https://github.com/hyeon23/MAWANGYONGSA)
 
@@ -100,7 +100,7 @@
 #### [Toy Project] - Waggles! <img width="30%" alt="Waggles" align='right' src="https://github.com/hyeon23/hyeon23/assets/77566434/62820932-36cc-4756-abfe-51d3c667cf44">
 - **Team:** Steelz, 1, Solo
 - **Duration:** 2021.11 ~ 2022.02
-- **Description:** Fruit Salad 모작 게임 1인 개발
+- **Description:** Fruit Salad 게임(수박 게임) 모작 1인 개발
 - **Tech Stack:** Unity, C# 2D PC
 - **Repo:** [Individual github repository](https://github.com/hyeon23/Waggles)
 
