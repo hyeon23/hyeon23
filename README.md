@@ -134,7 +134,7 @@
 
 -------
 
-#### [드림학기제] - EarthDefenseCorps <img width="30%" alt="EarthDefenseCorps" align='right' src="https://github.com/hyeon23/hyeon23/assets/77566434/713a4909-9cc2-43bf-83a1-b527294ecd6d">
+#### [드림학기제] - EarthDefenseCorps <img width="30%" height="50%" alt="EarthDefenseCorps" align='right' src="https://github.com/hyeon23/hyeon23/assets/77566434/713a4909-9cc2-43bf-83a1-b527294ecd6d">
 - **Team:** Steelz, 1, Solo
 - **Duration:** 2023.02 ~ 2023.6
 - **Description:** 캐쥬얼 2D 모바일 종스크롤 블록 부수기 게임 1인 개발
@@ -143,7 +143,7 @@
 
 -------
 
-#### [졸업프로젝트2] - Resign <img width="13%" alt="Resign" align='right' src="https://github.com/hyeon23/hyeon23/assets/77566434/509f86dd-ce33-4afd-aaae-e641720522cb">
+#### [졸업프로젝트2] - Resign <img width="23%" alt="Resign" align='right' src="https://github.com/hyeon23/hyeon23/assets/77566434/ab705e0a-00d1-46c6-8925-6fdefe0e0eab">
 - **Team:** InvisibleVR, 3(Leader) | Game Production | Game Design | Game Client Programming
 - **Duration:** 2023.09 ~ 2023.11
 - **Description:** VR FPS 사용자 반응형 공포 탈출 게임 총괄
