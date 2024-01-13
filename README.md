@@ -91,51 +91,14 @@
 
 ---
 
-#### [EDGE-게임개발경진대회] - 마왕용사 <img width="30%" alt="EDGE" align='right' src="https://github.com/hyeon23/hyeon23/assets/77566434/72afdf20-6f6e-453e-a11e-5aecbdbd5a15">
-- **Team:** Noname, 3(member), Game Design | Dot Design
-- **Duration:** 2021.11 ~ 2022.02
-- **Description:** 아이작, 슬레이 더 스파이어 기능 카피 로그 라이크 게임
-- **Tech Stack:** Unity, Tilemap, C# 2D PC
-- **Repo:** [Team's github repository](https://github.com/hyeon23/MAWANGYONGSA)
+#### [졸업프로젝트2] - Resign <img width="23%" alt="Resign" align='right' src="https://github.com/hyeon23/hyeon23/assets/77566434/ab705e0a-00d1-46c6-8925-6fdefe0e0eab">
+- **Team:** InvisibleVR, 3(Leader) | Game Production | Game Design | Game Client Programming
+- **Duration:** 2023.09 ~ 2023.11
+- **Description:** VR FPS 사용자 반응형 공포 탈출 게임 총괄
+- **Tech Stack:** Unity, VR, C# 3D Android MetaQuest2
+- **Repo:** [Team's github repository](https://github.com/InvisiVR/InvisibleVR)
 
--------
-
-#### [Toy Project] - Waggles! <img width="30%" alt="Waggles" align='right' src="https://github.com/hyeon23/hyeon23/assets/77566434/62820932-36cc-4756-abfe-51d3c667cf44">
-- **Team:** Steelz, 1, Solo
-- **Duration:** 2021.11 ~ 2022.02
-- **Description:** Fruit Salad 게임(수박 게임) 모작 1인 개발
-- **Tech Stack:** Unity, C# 2D PC
-- **Repo:** [Individual github repository](https://github.com/hyeon23/Waggles)
-
--------
-
-#### [산학협력프로젝트1] - AR Mobile Fishing <img width="30%" alt="ARMobileFishing" align='right' src="https://github.com/hyeon23/hyeon23/assets/77566434/08ae1c2d-e15b-42e1-a37a-73f64f0f42e4">
-- **Team:** KUnity, 6(member), Game Design | Game Client Programming
-- **Duration:** 2022.03 ~ 2022.06
-- **Description:** NFT 연동 AR 모바일 낚시 게임 기획 및 개발
-- **Tech Stack:** Unity, AR, NFT, C# 3D Mobile
-- **Repo:** [Team's github repository](https://github.com/KUnity/AR_Mobile_Fishing_Game)
-
--------
-
-#### [MSW X SUPER HACKATHON 2022] - 월척! 낚시왕 & 날치-날다 <img width="14%" alt="월척! 낚시왕1" align='right' src="https://github.com/hyeon23/hyeon23/assets/77566434/02af383f-5e08-43fd-a497-a73eeba92c67">
-- **Team:** 넥슨의 개, 3(member), '날치 날다' Game Design | '날치 날다' Game Client Programming
-- **Duration:** 2022.09 ~ 2022.11<!-- <img width="15%" alt="MOD 수료증" src="https://github.com/hyeon23/hyeon23/assets/77566434/b1c469a7-b91b-47a2-bf60-03de44ab05e2">-->
-- **Description:** 월척! 낚시왕 내 항아리류 미니 게임 '날치-날다' 기획 및 개발 <img width="14%" alt="날치 날다2" align='right' src="https://github.com/hyeon23/hyeon23/assets/77566434/c2bea632-5685-4425-8fbd-b106b1959f52">
-- **Tech Stack:** MSW, Network Programming, Lua 2D PC
-- **Repo:** [MapleStory Worlds](https://maplestoryworlds.nexon.com/ko/play/23b1185ea0e84a05acba212142b9d36f/)
-
-
--------
-
-#### [산학협력프로젝트2] - KUC! <img width="30%" alt="KUC!" align='right' src="https://github.com/hyeon23/hyeon23/assets/77566434/15e99130-9748-4abb-ad3b-475f37858c26">
-- **Team:** KUCook, 6(Leader), Game Design | Game Client Programming
-- **Duration:** 2022.09 ~ 2022.12
-- **Description:** 무한 웨이브 레시피 기반 조합 타워 디펜스 게임 총괄
-- **Tech Stack:** Unity, 조합, Tilemap, C# 2D PC
-- **Repo:** [Team's github repository](https://github.com/IUC2/KUC)
-
--------
+---
 
 #### [드림학기제] - EarthDefenseCorps <img width="30%" height="50%" alt="EarthDefenseCorps" align='right' src="https://github.com/hyeon23/hyeon23/assets/77566434/713a4909-9cc2-43bf-83a1-b527294ecd6d">
 - **Team:** Steelz, 1, Solo
@@ -144,15 +107,51 @@
 - **Tech Stack:** Unity, GPGS, AWS, IAP, C# 2D Mobile
 - **Repos:** [Individual github repository](https://github.com/hyeon23/EarthDefenseCorps)
 
--------
+---
 
-#### [졸업프로젝트2] - Resign <img width="23%" alt="Resign" align='right' src="https://github.com/hyeon23/hyeon23/assets/77566434/ab705e0a-00d1-46c6-8925-6fdefe0e0eab">
-- **Team:** InvisibleVR, 3(Leader) | Game Production | Game Design | Game Client Programming
-- **Duration:** 2023.09 ~ 2023.11
-- **Description:** VR FPS 사용자 반응형 공포 탈출 게임 총괄
-- **Tech Stack:** Unity, VR, C# 3D Android MetaQuest2
-- **Repo:** [Team's github repository](https://github.com/InvisiVR/InvisibleVR)
+#### [산학협력프로젝트2] - KUC! <img width="30%" alt="KUC!" align='right' src="https://github.com/hyeon23/hyeon23/assets/77566434/15e99130-9748-4abb-ad3b-475f37858c26">
+- **Team:** KUCook, 6(Leader), Game Design | Game Client Programming
+- **Duration:** 2022.09 ~ 2022.12
+- **Description:** 무한 웨이브 레시피 기반 조합 타워 디펜스 게임 총괄
+- **Tech Stack:** Unity, 조합, Tilemap, C# 2D PC
+- **Repo:** [Team's github repository](https://github.com/IUC2/KUC)
 
--------
+---
+
+#### [MSW X SUPER HACKATHON 2022] - 월척! 낚시왕 & 날치-날다 <img width="14%" alt="월척! 낚시왕1" align='right' src="https://github.com/hyeon23/hyeon23/assets/77566434/02af383f-5e08-43fd-a497-a73eeba92c67">
+- **Team:** 넥슨의 개, 3(member), '날치 날다' Game Design | '날치 날다' Game Client Programming
+- **Duration:** 2022.09 ~ 2022.11<!-- <img width="15%" alt="MOD 수료증" src="https://github.com/hyeon23/hyeon23/assets/77566434/b1c469a7-b91b-47a2-bf60-03de44ab05e2">-->
+- **Description:** 월척! 낚시왕 내 항아리류 미니 게임 '날치-날다' 기획 및 개발 <img width="14%" alt="날치 날다2" align='right' src="https://github.com/hyeon23/hyeon23/assets/77566434/c2bea632-5685-4425-8fbd-b106b1959f52">
+- **Tech Stack:** MSW, Network Programming, Lua 2D PC
+- **Repo:** [MapleStory Worlds](https://maplestoryworlds.nexon.com/ko/play/23b1185ea0e84a05acba212142b9d36f/)
+
+---
+
+#### [산학협력프로젝트1] - AR Mobile Fishing <img width="30%" alt="ARMobileFishing" align='right' src="https://github.com/hyeon23/hyeon23/assets/77566434/08ae1c2d-e15b-42e1-a37a-73f64f0f42e4">
+- **Team:** KUnity, 6(member), Game Design | Game Client Programming
+- **Duration:** 2022.03 ~ 2022.06
+- **Description:** NFT 연동 AR 모바일 낚시 게임 기획 및 개발
+- **Tech Stack:** Unity, AR, NFT, C# 3D Mobile
+- **Repo:** [Team's github repository](https://github.com/KUnity/AR_Mobile_Fishing_Game)
+
+---
+
+#### [Toy Project] - Waggles! <img width="30%" alt="Waggles" align='right' src="https://github.com/hyeon23/hyeon23/assets/77566434/62820932-36cc-4756-abfe-51d3c667cf44">
+- **Team:** Steelz, 1, Solo
+- **Duration:** 2021.11 ~ 2022.02
+- **Description:** Fruit Salad 게임(수박 게임) 모작 1인 개발
+- **Tech Stack:** Unity, C# 2D PC
+- **Repo:** [Individual github repository](https://github.com/hyeon23/Waggles)
+
+---
+
+#### [EDGE-게임개발경진대회] - 마왕용사 <img width="30%" alt="EDGE" align='right' src="https://github.com/hyeon23/hyeon23/assets/77566434/72afdf20-6f6e-453e-a11e-5aecbdbd5a15">
+- **Team:** Noname, 3(member), Game Design | Dot Design
+- **Duration:** 2021.11 ~ 2022.02
+- **Description:** 아이작, 슬레이 더 스파이어 기능 카피 로그 라이크 게임
+- **Tech Stack:** Unity, Tilemap, C# 2D PC
+- **Repo:** [Team's github repository](https://github.com/hyeon23/MAWANGYONGSA)
+
+---
 
 </div>
