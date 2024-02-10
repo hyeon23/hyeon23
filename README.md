@@ -55,6 +55,7 @@
 - **Duration:** 2023.11
 - **Description:** SW 전공 건국대 학생의 졸업작품 및 교내외 참가작의 우열을 가리는 경진대회, VR FPS 사용자 반응형 공포 탈출 게임
 - **Tech Stack:** Unity, VR, C# 3D Android MetaQuest2
+- **Play Video:** [InvisibleVR-Resign-PV](https://youtu.be/xWjxK82wULk=qs)</br>
 - **Repo:** [Team's github repository](https://github.com/InvisiVR/InvisibleVR)
 
 ---
@@ -65,6 +66,7 @@
 - **Duration:** 2023.7
 - **Description:** 학생 주도적으로 한 학기를 설계해 프로젝트를 진행하는 드림학기제, 캐쥬얼 모바일 2D 게임 1인 개발
 - **Tech Stack:** Unity, GPGS, AWS, IAP, C# 2D Mobile
+- **Play Video:** [Steelz-EarthDefenseCorps-PV](https://youtu.be/jRBRrgoNVqM=qs)</br>
 - **Repo:** [Individual github repository](https://github.com/hyeon23/EarthDefenseCorps)
 
 ---
@@ -96,6 +98,7 @@
 - **Duration:** 2023.09 ~ 2023.11
 - **Description:** VR FPS 사용자 반응형 공포 탈출 게임
 - **Tech Stack:** Unity, VR, C# 3D Android MetaQuest2
+- **Play Video:** [InvisibleVR-Resign-PV](https://youtu.be/xWjxK82wULk=qs)</br>
 - **Repo:** [Team's github repository](https://github.com/InvisiVR/InvisibleVR)
 
 ---
@@ -105,6 +108,7 @@
 - **Duration:** 2023.02 ~ 2023.6
 - **Description:** 캐쥬얼 2D 모바일 종스크롤 블록 부수기 게임
 - **Tech Stack:** Unity, GPGS, AWS, IAP, C# 2D Mobile
+- **Play Video:** [Steelz-EarthDefenseCorps-PV](https://youtu.be/jRBRrgoNVqM=qs)</br>
 - **Repos:** [Individual github repository](https://github.com/hyeon23/EarthDefenseCorps)
 
 ---
