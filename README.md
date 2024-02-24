@@ -116,8 +116,9 @@
 #### [산학협력프로젝트2] - KUC! <img width="30%" alt="KUC!" align='right' src="https://github.com/hyeon23/hyeon23/assets/77566434/15e99130-9748-4abb-ad3b-475f37858c26">
 - **Team:** KUCook, 6(Leader), Game Design | Game Client Programming
 - **Duration:** 2022.09 ~ 2022.12
-- **Description:** 무한 웨이브 레시피 기반 조합 타워 디펜스 게임
+- **Description:** 음식 조리 컨셉 레시피 기반 조합 타워 디펜스 게임
 - **Tech Stack:** Unity, 조합, Tilemap, C# 2D PC
+- **Play Video:** [KUCook-KUC!(음식 조리 컨셉 조합 타워 디펜스)-PV](https://youtu.be/v3zuCRLvjUo=qs)</br>
 - **Repo:** [Team's github repository](https://github.com/IUC2/KUC)
 
 ---
