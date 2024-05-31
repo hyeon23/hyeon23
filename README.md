@@ -51,23 +51,19 @@
 
 #### 🥇 2023 KU SW 경진대회, 대상(1st) - 👁 Resign
 - **Dimension:** 200 Teams+
-- **Team:** InvisibleVR, 3, Leader | Game Production | Game Design | Game Client Programming
 - **Duration:** 2023.11
 - **Description:** SW 전공 건국대 학생의 졸업작품 및 교내외 참가작의 우열을 가리는 경진대회, VR FPS 사용자 반응형 공포 탈출 게임
-- **Tech Stack:** Unity, VR, C# 3D Android MetaQuest2
 - **Play Video:** [InvisibleVR-Resign-PV](https://youtu.be/xWjxK82wULk=qs)</br>
-- **Repo:** [Team's github repository](https://github.com/InvisiVR/InvisibleVR)
+- **Repo:** [github repository](https://github.com/InvisiVR/InvisibleVR)
 
 ---
 
 #### 🥈 2023 KU 드림학기제, 우수 프로젝트-우수상(2nd) - 👾 EarthDefenseCorps
 - **Dimension:** 30 Teams+
-- **Team:** Steelz, 1, Solo
 - **Duration:** 2023.7
 - **Description:** 학생 주도적으로 한 학기를 설계해 프로젝트를 진행하는 드림학기제, 캐쥬얼 모바일 2D 게임 1인 개발
-- **Tech Stack:** Unity, GPGS, AWS, IAP, C# 2D Mobile
 - **Play Video:** [Steelz-EarthDefenseCorps-PV](https://youtu.be/jRBRrgoNVqM=qs)</br>
-- **Repo:** [Individual github repository](https://github.com/hyeon23/EarthDefenseCorps)
+- **Repo:** [github repository](https://github.com/hyeon23/EarthDefenseCorps)
 
 ---
 
@@ -75,11 +71,9 @@
 
 #### 🥇 게임개발동아리 EDGE 게임개발경진대회, 최우수상(1st) - 💀 마왕용사
 - **Dimension:** 10 Teams+
-- **Team:** Noname, 3, Game Design | Dot Design
 - **Duration:** 2022.3
 - **Description:** EDGE 게임개발 경진대회, 아이작, 슬레이 더 스파이어 기능 카피 로그 라이크 게임
-- **Tech Stack:** Unity, Tilemap, C# 2D PC
-- **Repo:** [Team's github repository](https://github.com/hyeon23/MAWANGYONGSA)
+- **Repo:** [github repository](https://github.com/hyeon23/MAWANGYONGSA)
 
 </div>
 
@@ -93,23 +87,23 @@
 
 ---
 
-#### Auto Battle Simulator <img width="23%" alt="Resign" align='right' src="https://github.com/hyeon23/hyeon23/assets/77566434/ab705e0a-00d1-46c6-8925-6fdefe0e0eab">
+#### Auto Battle Simulator <img width="30%" alt="Resign" align='right' src="https://github.com/hyeon23/hyeon23/assets/77566434/aadab7c0-c245-4332-bd35-f8b1759ee736">
 - **Team:** 1, Solo
 - **Duration:** 2024.05 ~ 2024.05
 - **Description:** 2D Tilemap 상에서 A* Path Finding Algorithm을 적용한 자동 전투 시뮬레이션
 - **Tech Stack:** Unity, VR, C#, Tilemap2D, A* Algorithm
-- **Play Video:** [InvisibleVR-Resign-PV](https://youtu.be/xWjxK82wULk=qs)</br>
-- **Repo:** [Team's github repository](https://github.com/InvisiVR/InvisibleVR)
+- **Play Video:** [Auto Battle Simulator-PV](https://youtu.be/w-qQ26sj56U=qs)</br>
+- **Repo:** [github repository](https://github.com/hyeon23/AutoBattleSimulator)
 
 ---
 
-#### [졸업프로젝트2] - Resign <img width="23%" alt="Resign" align='right' src="https://github.com/hyeon23/hyeon23/assets/77566434/ab705e0a-00d1-46c6-8925-6fdefe0e0eab">
+#### [졸업프로젝트2] - Resign <img width="27%" alt="Resign" align='right' src="https://github.com/hyeon23/hyeon23/assets/77566434/ab705e0a-00d1-46c6-8925-6fdefe0e0eab">
 - **Team:** InvisibleVR, 3(Leader) | Game Production | Game Design | Game Client Programming
 - **Duration:** 2023.09 ~ 2023.11
 - **Description:** VR FPS 사용자 반응형 공포 탈출 게임
 - **Tech Stack:** Unity, VR, C# 3D Android MetaQuest2
 - **Play Video:** [InvisibleVR-Resign-PV](https://youtu.be/xWjxK82wULk=qs)</br>
-- **Repo:** [Team's github repository](https://github.com/InvisiVR/InvisibleVR)
+- **Repo:** [github repository](https://github.com/InvisiVR/InvisibleVR)
 
 ---
 
@@ -119,7 +113,7 @@
 - **Description:** 캐쥬얼 2D 모바일 종스크롤 블록 부수기 게임
 - **Tech Stack:** Unity, GPGS, AWS, IAP, C# 2D Mobile
 - **Play Video:** [Steelz-EarthDefenseCorps-PV](https://youtu.be/jRBRrgoNVqM=qs)</br>
-- **Repos:** [Individual github repository](https://github.com/hyeon23/EarthDefenseCorps)
+- **Repos:** [github repository](https://github.com/hyeon23/EarthDefenseCorps)
 
 ---
 
@@ -129,7 +123,7 @@
 - **Description:** 음식 조리 컨셉 레시피 기반 조합 타워 디펜스 게임
 - **Tech Stack:** Unity, 조합, Tilemap, C# 2D PC
 - **Play Video:** [KUCook-KUC!(음식 조리 컨셉 조합 타워 디펜스)-PV](https://youtu.be/v3zuCRLvjUo=qs)</br>
-- **Repo:** [Team's github repository](https://github.com/IUC2/KUC)
+- **Repo:** [github repository](https://github.com/IUC2/KUC)
 
 ---
 
@@ -147,7 +141,7 @@
 - **Duration:** 2022.03 ~ 2022.06
 - **Description:** NFT 연동 AR 모바일 낚시 게임
 - **Tech Stack:** Unity, AR, NFT, C# 3D Mobile
-- **Repo:** [Team's github repository](https://github.com/KUnity/AR_Mobile_Fishing_Game)
+- **Repo:** [github repository](https://github.com/KUnity/AR_Mobile_Fishing_Game)
 
 ---
 
@@ -156,7 +150,7 @@
 - **Duration:** 2021.11 ~ 2022.02
 - **Description:** Fruit Salad 게임(수박 게임) 모작 1인 개발
 - **Tech Stack:** Unity, C# 2D PC
-- **Repo:** [Individual github repository](https://github.com/hyeon23/Waggles)
+- **Repo:** [github repository](https://github.com/hyeon23/Waggles)
 
 ---
 
@@ -165,7 +159,7 @@
 - **Duration:** 2021.11 ~ 2022.02
 - **Description:** 아이작, 슬레이 더 스파이어 기능 카피 로그 라이크 게임
 - **Tech Stack:** Unity, Tilemap, C# 2D PC
-- **Repo:** [Team's github repository](https://github.com/hyeon23/MAWANGYONGSA)
+- **Repo:** github repository](https://github.com/hyeon23/MAWANGYONGSA)
 
 ---
 
