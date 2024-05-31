@@ -90,7 +90,7 @@
 #### Auto Battle Simulator <img width="30%" alt="Resign" align='right' src="https://github.com/hyeon23/hyeon23/assets/77566434/aadab7c0-c245-4332-bd35-f8b1759ee736">
 - **Team:** 1, Solo
 - **Duration:** 2024.05 ~ 2024.05
-- **Description:** 2D Tilemap 상에서 A* Path Finding Algorithm을 적용한 자동 전투 시뮬레이션
+- **Description:** 2D Tilemap A* Path Finding Algorithm을 적용한 자동 전투 시뮬레이션
 - **Tech Stack:** Unity, VR, C#, Tilemap2D, A* Algorithm
 - **Play Video:** [Auto Battle Simulator-PV](https://youtu.be/w-qQ26sj56U=qs)</br>
 - **Repo:** [github repository](https://github.com/hyeon23/AutoBattleSimulator)
