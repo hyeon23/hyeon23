@@ -87,7 +87,7 @@
 
 ---
 
-#### Auto Battle Simulator <img width="30%" alt="Resign" align='right' src="https://github.com/hyeon23/hyeon23/assets/77566434/aadab7c0-c245-4332-bd35-f8b1759ee736">
+#### AUTO BATTLE SIMULATOR <img width="30%" alt="Resign" align='right' src="https://github.com/hyeon23/hyeon23/assets/77566434/aadab7c0-c245-4332-bd35-f8b1759ee736">
 - **Team:** 1, Solo
 - **Duration:** 2024.05 ~ 2024.05
 - **Description:** 2D Tilemap A* Path Finding Algorithm을 적용한 자동 전투 시뮬레이션
