@@ -93,6 +93,16 @@
 
 ---
 
+#### Auto Battle Simulator <img width="23%" alt="Resign" align='right' src="https://github.com/hyeon23/hyeon23/assets/77566434/ab705e0a-00d1-46c6-8925-6fdefe0e0eab">
+- **Team:** 1, Solo
+- **Duration:** 2024.05 ~ 2024.05
+- **Description:** 2D Tilemap 상에서 A* Path Finding Algorithm을 적용한 자동 전투 시뮬레이션
+- **Tech Stack:** Unity, VR, C#, Tilemap2D, A* Algorithm
+- **Play Video:** [InvisibleVR-Resign-PV](https://youtu.be/xWjxK82wULk=qs)</br>
+- **Repo:** [Team's github repository](https://github.com/InvisiVR/InvisibleVR)
+
+---
+
 #### [졸업프로젝트2] - Resign <img width="23%" alt="Resign" align='right' src="https://github.com/hyeon23/hyeon23/assets/77566434/ab705e0a-00d1-46c6-8925-6fdefe0e0eab">
 - **Team:** InvisibleVR, 3(Leader) | Game Production | Game Design | Game Client Programming
 - **Duration:** 2023.09 ~ 2023.11
