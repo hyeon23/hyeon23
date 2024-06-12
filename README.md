@@ -49,19 +49,19 @@
 
 ---
 
-#### 🥇 2023 KU SW 경진대회, 대상(1st) - 👁 Resign
+#### 🥇 SW 경진대회, 대상(1st) - 👁 Resign
+- **개최:** SW 중심대학사업단단
 - **Dimension:** 200 Teams+
 - **Duration:** 2023.11
-- **Description:** SW 전공 건국대 학생의 졸업작품 및 교내외 참가작의 우열을 가리는 경진대회, VR FPS 사용자 반응형 공포 탈출 게임
 - **Play Video:** [InvisibleVR-Resign-PV](https://youtu.be/xWjxK82wULk=qs)</br>
 - **Repo:** [github repository](https://github.com/InvisiVR/InvisibleVR)
 
 ---
 
-#### 🥈 2023 KU 드림학기제, 우수 프로젝트-우수상(2nd) - 👾 EarthDefenseCorps
+#### 🥈 KU 드림학기제, 우수 프로젝트-우수상(2nd) - 👾 EarthDefenseCorps
+- **개최:** 건국대학교
 - **Dimension:** 30 Teams+
 - **Duration:** 2023.7
-- **Description:** 학생 주도적으로 한 학기를 설계해 프로젝트를 진행하는 드림학기제, 캐쥬얼 모바일 2D 게임 1인 개발
 - **Play Video:** [Steelz-EarthDefenseCorps-PV](https://youtu.be/jRBRrgoNVqM=qs)</br>
 - **Repo:** [github repository](https://github.com/hyeon23/EarthDefenseCorps)
 
@@ -69,10 +69,10 @@
 
 <div align="left">
 
-#### 🥇 게임개발동아리 EDGE 게임개발경진대회, 최우수상(1st) - 💀 마왕용사
+#### 🥇 게임개발경진대회, 최우수상(1st) - 💀 마왕용사
+- **개최:** 게임개발동아리 EDGE
 - **Dimension:** 10 Teams+
 - **Duration:** 2022.3
-- **Description:** EDGE 게임개발 경진대회, 아이작, 슬레이 더 스파이어 기능 카피 로그 라이크 게임
 - **Repo:** [github repository](https://github.com/hyeon23/MAWANGYONGSA)
 
 </div>
