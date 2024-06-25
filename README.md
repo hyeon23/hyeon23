@@ -50,7 +50,7 @@
 ---
 
 #### 🥇 SW 경진대회, 대상(1st) - 👁 Resign
-- **개최:** SW 중심대학사업단단
+- **개최:** SW 중심대학사업단
 - **Dimension:** 200 Teams+
 - **Duration:** 2023.11
 - **Play Video:** [InvisibleVR-Resign-PV](https://youtu.be/xWjxK82wULk=qs)</br>
