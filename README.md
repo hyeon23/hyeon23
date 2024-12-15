@@ -4,7 +4,7 @@
 
 ##### :kr: `Seoul Korea` | 🏛 `Konkuk University` |  :computer: `Computer Engineering`
 
-##### 📖 `Blog Link` : [![Email Badge](http://img.shields.io/badge/-velog-20C997?style=flat&logo=velog&logoColor=white)](https://velog.io/@hyeon23)
+##### 📖 `Blog Link` : Blocked
 
 ##### 🔗 `Mail Links` : [![Email Badge](http://img.shields.io/badge/-Nmail-03C75A?style=flat&logo=naver&logoColor=white)](mailto:urim2270@naver.com)  [![Email Badge](http://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:urim2270@naver.com)
 
